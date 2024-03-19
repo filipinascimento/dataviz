@@ -2,9 +2,25 @@
 
 Welcome to our exciting journey into the world of Data Visualization! This course is designed to provide you with a solid understanding of visualization fundamentals, emphasizing practical skills and real-world applications through Python and Javascript. 
 
+
 Visualizing data is an essential skill for researchers, data scientists, analysts, journalists, and professionals in various fields dealing with information. It is an important tool for understanding complex datasets and making data-driven decisions. Also, it can play an important role in troubleshooting issues within complex data analysis pipelines or AI models. Furthermore, data visualization serves as a powerful medium for communicating data-driven insights and narratives with colleagues or broader audiences.
 
 This course is heavily based on Prof. Yong-Yeol “YY” Ahn's Data Visualization course (http://yongyeol.com).
+
+# Table of Contents
+
+1. [Welcome to the Data Visualization Course!](#welcome-to-the-data-visualization-course)
+2. [Objectives](#objectives)
+3. [Prerequisites](#prerequisites)
+4. [Course Structure](#course-structure)
+5. [Grades](#grades)
+6. [Communication](#communication)
+7. [Final Project](#final-project)
+8. [Recommended Books and Resources](#recommended-books-and-resources)
+9. [Course Materials](#course-materials)
+10. [Getting Started With the Course](#getting-started-with-the-course)
+11. [Setting Up Your Data Visualization Environment](#setting-up-your-data-visualization-environment)
+12. [Basic GitHub Usage for the Data Visualization Course (for submitting assignments)](#basic-github-usage-for-the-data-visualization-course-for-submitting-assignments)
 
 ## Objectives
 
