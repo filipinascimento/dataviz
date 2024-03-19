@@ -1,0 +1,21 @@
+name: datascience
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - pip
+  - ipywidgets
+  - jupyterlab
+  - scipy
+  - scikit-learn
+  - seaborn
+  - pip:
+    - ipympl
+    - mplcursors  
+
+
