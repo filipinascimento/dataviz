@@ -1,4 +1,4 @@
-# Welcome to the Data Science Course!
+# Welcome to the Data Visualization Course!
 
 Welcome to our exciting journey into the world of Data Visualization! This course is designed to provide you with a solid understanding of visualization fundamentals, emphasizing practical skills and real-world applications through Python and Javascript. 
 
