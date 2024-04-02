@@ -49,9 +49,9 @@ For self-assessment, please, visit the following link: http://bit.ly/dvizselfass
 
 Each week, we'll explore different topics in Data Visualization, starting from the basics and gradually moving to more advanced concepts. The course is designed to be hands-on, with a mix of theory, practical exercises, and projects.
 
-Here's a tentative outline of the course:
+Here's a tentative outline of the course for Fall 2024:
 
- - **Week 1**: Introduction to Data Visualization
+ - **Week 1** (Aug 26 and Aug 28): Introduction to Data Visualization
     - Overview of Data Visualization
     - The Importance of Data Visualization
     - Historical overview
@@ -59,7 +59,7 @@ Here's a tentative outline of the course:
     - Famous visualizations and their impact
     - Demonstration of visualizations, tools, and libraries
 
- - **Week 2**: Principles of data visualization
+ - **Week 2** (Sep 4): Principles of data visualization
     - Human perception and cognition
     - Gestalt principles
     - Visual encoding
@@ -67,56 +67,57 @@ Here's a tentative outline of the course:
     - Color perception, theory and representations
     - Ethical considerations in data visualization
 
- - **Week 3**:  Prerequisites and Recap of Fundamentals I
-    - Python basics
-    - Jupyter Notebooks
-    - Pandas for data manipulation
-    - Basic statistics
-    - File formats for data and visualization
-    - Exporting visualizations to design tools
+ - **Week 3** (Sep 9 and Sep 11):  Prerequisites and Recap of Fundamentals
+    - Python basics (Jupyter, Pandas)
+    - Simple statistics
+    - Modern Javascript, HTML, and CSS basics
+    - Setup of a web development environment
+    - Introduction to d3.js
+    - Canvas and SVG
+    - Basics of 2D computer graphics, geometry, and affine transformations
 
- - **Week 4**:  Data types and organization
+ - **Week 4** (Sep 16 and Sep 18):  Data types and Exploratory Data Analysis
     - Data types and data structures
     - Data cleaning and preprocessing
     - Manipulation of data
-    - Description and summarization of data 
-
- - **Week 5**:  Histograms and statistical plots
+    - Description and summarization of data
     - Histograms
     - Box plots and variants
+    - File formats for visualizations
+    - Exporting visualizations to design tools
+
+ - **Week 5** (Sep 23 and Sep 25):  Distributions, scales and axes
     - Typical distributions
     - Kernel density estimation
     - Power-law distribution
-
- - **Week 6**:  Scales and axes
     - Linear, Logarithmic and Time scales
     - Revisiting the Power-law distribution
     - Line plots
     - Axes, ticks and labels
-    - **Project idea discussions and matchmaking**
 
- - **Week 7**:  Mapping to 2D
+ - **Week 6** (Sep 30 and Oct 2):  Mapping data to 2D
     - Scatter and bubble plots
     - Heatmaps
     - Color scales
     - 2D histograms, contour and density plots
     - Which chart, color, scale, map, *, to use?
     - Bad vs Good visualizations
+    - **Project idea discussions and matchmaking**
 
- - **Week 8**:  Multidimensional data
+ - **Week 7** (Oct 7 and Oct 9):  Multidimensional data I
     - Parallel coordinates and radar chart
     - Scatter matrices and multi-panel plots
     - Are 3D plots the solution?
     - Principles of dimensionality reduction
     - Principal component analysis
 
- - **Week 9**:  Multidimensional data II
+ - **Week 8** (Oct 14 and Oct 16):  Multidimensional data II
     - Visualizing high-dimensional data
     - t-SNE and UMAP
     - Clustering
-    - Embeddings (from text, images, etc.)
+    - Introduction to embeddings (from text, images, etc.)
 
- - **Week 10**: Geospatial data
+ - **Week 9** (Oct 21 and Oct 23): Geospatial data
     - Map projections
     - Choropleth maps
     - Density projection and caveats
@@ -124,36 +125,31 @@ Here's a tentative outline of the course:
     - Routes
     - **Project checkpoint and discussions**
 
- - **Week 11**: Text and Networks
+ - **Week 10** (Oct 28 and Oct 30): Text and Networks
     - Word clouds and variations
     - Words and Text embedding (e.g., word2vec, BERT, etc.)
     - Network visualization
     - Node-link diagrams
     - Graph layout algorithms
 
- - **Week 12**:  Prerequisites and Recap of Fundamentals II
-    - Modern Javascript, HTML, and CSS basics
-    - Setup of a web development environment
-    - Introduction to d3.js
-    - Canvas and SVG
-    - 2D geometry and affine transformations
-    - Basics of 2D computer graphics
-
- - **Week 13**:  Interactive visualizations
+ - **Week 11** (Nov 4 and Nov 6):  Interactive visualizations
       - Importance of interactivity
       - Types of interactions
       - Building interactive visualizations with d3.js
-      - Deploying visualizations to the web
       - **Guest lecture**
 
- - **Week 14**:  Deconstructing and reconstructing visualizations with d3.js
+ - **Week 12** (Nov 11 and Nov 13):  Deconstructing and reconstructing visualizations with d3.js
+      - Deploying visualizations to the web
       - The building blocks of visualizations
       - Customizing visualizations with d3.js
-      - **Project hackday**
+    
+ - **Week 13**:  **Thanksgiving break**
 
- - **Week 15**:  **Project presentations**
+ - **Week 14**  (Dec 2 and Dec 4):  **Project hackday week**
 
- - **Week 16**:  **Final Exam**
+ - **Week 15** (Dec 9 and Dec 11):  **Project presentations week**
+   
+ - **Week 16** (Dec 16 and Dec 18):  **Final Exam Week**
 
 
 ### Grades
