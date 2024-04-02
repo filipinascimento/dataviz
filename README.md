@@ -115,7 +115,6 @@ Here's a tentative outline of the course for Fall 2024:
     - Visualizing high-dimensional data
     - t-SNE and UMAP
     - Clustering
-    - Introduction to embeddings (from text, images, etc.)
 
  - **Week 9** (Oct 21 and Oct 23): Geospatial data
     - Map projections
@@ -123,33 +122,39 @@ Here's a tentative outline of the course for Fall 2024:
     - Density projection and caveats
     - Geodesic and great-circle distances
     - Routes
-    - **Project checkpoint and discussions**
 
- - **Week 10** (Oct 28 and Oct 30): Text and Networks
+ - **Week 10** (Oct 28 and Oct 30): Text and embeddings
+    - Preprocessing text
     - Word clouds and variations
+    - Word prevalence plots
     - Words and Text embedding (e.g., word2vec, BERT, etc.)
+    - Other types of embedding (e.g., images, etc.)
+
+ - **Week 11** (Nov 4 and Nov 6): Network visualization
     - Network visualization
     - Node-link diagrams
     - Graph layout algorithms
+    - Visualizing social media
+    - **Project checkpoint and discussions**
 
- - **Week 11** (Nov 4 and Nov 6):  Interactive visualizations
-      - Importance of interactivity
-      - Types of interactions
-      - Building interactive visualizations with d3.js
-      - **Guest lecture**
-
- - **Week 12** (Nov 11 and Nov 13):  Deconstructing and reconstructing visualizations with d3.js
-      - Deploying visualizations to the web
-      - The building blocks of visualizations
-      - Customizing visualizations with d3.js
+ - **Week 12** (Nov 11 and Nov 13): Interactive visualizations
+    - Importance of interactivity
+    - Types of interactions
+    - Building interactive visualizations with d3.js
+    - **Guest lecture**
     
- - **Week 13**:  **Thanksgiving break**
+ - **Week 13** (Nov 18 and Nov 20):  Deconstructing and reconstructing visualizations with d3.js
+    - Deploying visualizations to the web
+    - The building blocks of visualizations
+    - Customizing visualizations with d3.js
 
- - **Week 14**  (Dec 2 and Dec 4):  **Project hackday week**
-
- - **Week 15** (Dec 9 and Dec 11):  **Project presentations week**
+ - **Week 14**: **Thanksgiving break**
    
- - **Week 16** (Dec 16 and Dec 18):  **Final Exam Week**
+ - **Week 15** (Dec 2 and Dec 4):  **Project hackday week**
+
+ - **Week 16** (Dec 9 and Dec 11):  **Project presentations week**
+   
+ - **Week 17** (Dec 16 and Dec 18):  **Final Exam Week**
 
 
 ### Grades
