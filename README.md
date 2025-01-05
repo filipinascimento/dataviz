@@ -1,4 +1,6 @@
 # Welcome to the Data Visualization Course!
+(**INFO-I 590** Spring 2025)
+
 
 Welcome to our exciting journey into the world of Data Visualization! This course is designed to provide you with a solid understanding of visualization fundamentals, emphasizing practical skills and real-world applications through Python and Javascript. 
 
@@ -40,6 +42,7 @@ You will showcase your learned skills by undertaking a course project, in which 
 
 
 ### Prerequisites
+
 In this course, we will primarily use Python for data analysis and visualization tasks. Thus, you are required to have a good understanding of algorithms and practical experience with Python. We also expect you to have some level of familiarity with web technologies (HTML, CSS, and JavaScript), which will be essential for creating and deploying interactive visualizations. You are encouraged to also have a basic understanding of statistics and probability, as well as notions of 2D geometry and linear algebra.
 
 For self-assessment, please, visit the following link: http://bit.ly/dvizselfassess  (created by YY Ahn). Contact the instructor if you are uncertain about your background.
@@ -51,7 +54,7 @@ Each week, we'll explore different topics in Data Visualization, starting from t
 
 Here's a tentative outline of the course for Fall 2024:
 
- - **Week 1** (Aug 26 and Aug 28): Introduction to Data Visualization
+ - **Week 1** (Jan 13 and Jan 16): Introduction to Data Visualization
     - Overview of Data Visualization
     - The Importance of Data Visualization
     - Historical overview
@@ -59,7 +62,17 @@ Here's a tentative outline of the course for Fall 2024:
     - Famous visualizations and their impact
     - Demonstration of visualizations, tools, and libraries
 
- - **Week 2** (Sep 4): Principles of data visualization
+ - **Week 2** (Jan 22):  Prerequisites and Recap of Fundamentals
+    - Git and Github
+    - Python basics (Jupyter, Pandas)
+    - Simple statistics
+    - Modern Javascript, HTML, and CSS basics
+    - Setup of a web development environment
+   
+ - **Week 3** (Jan 27 and Jan 29): Continuation of Fundamentals and Principles of Data Visualization 
+    - Introduction to d3.js
+    - Canvas and SVG
+    - Basics of 2D computer graphics, geometry, and affine transformations
     - Human perception and cognition
     - Gestalt principles
     - Visual encoding
@@ -67,16 +80,7 @@ Here's a tentative outline of the course for Fall 2024:
     - Color perception, theory and representations
     - Ethical considerations in data visualization
 
- - **Week 3** (Sep 9 and Sep 11):  Prerequisites and Recap of Fundamentals
-    - Python basics (Jupyter, Pandas)
-    - Simple statistics
-    - Modern Javascript, HTML, and CSS basics
-    - Setup of a web development environment
-    - Introduction to d3.js
-    - Canvas and SVG
-    - Basics of 2D computer graphics, geometry, and affine transformations
-
- - **Week 4** (Sep 16 and Sep 18):  Data types and Exploratory Data Analysis
+ - **Week 4** (Feb 3 and Feb 5):  Data types and Exploratory Data Analysis
     - Data types and data structures
     - Data cleaning and preprocessing
     - Manipulation of data
@@ -86,7 +90,7 @@ Here's a tentative outline of the course for Fall 2024:
     - File formats for visualizations
     - Exporting visualizations to design tools
 
- - **Week 5** (Sep 23 and Sep 25):  Distributions, scales and axes
+ - **Week 5** (Feb 10 and Feb 12):  Distributions, scales and axes
     - Typical distributions
     - Kernel density estimation
     - Power-law distribution
@@ -95,7 +99,7 @@ Here's a tentative outline of the course for Fall 2024:
     - Line plots
     - Axes, ticks and labels
 
- - **Week 6** (Sep 30 and Oct 2):  Mapping data to 2D
+ - **Week 6** (Feb 17 and Feb 19):  Mapping data to 2D
     - Scatter and bubble plots
     - Heatmaps
     - Color scales
@@ -104,63 +108,64 @@ Here's a tentative outline of the course for Fall 2024:
     - Bad vs Good visualizations
     - **Project idea discussions and matchmaking**
 
- - **Week 7** (Oct 7 and Oct 9):  Multidimensional data I
+ - **Week 7** (Feb 24 and Feb 26):  Multidimensional data I
     - Parallel coordinates and radar chart
     - Scatter matrices and multi-panel plots
     - Are 3D plots the solution?
     - Principles of dimensionality reduction
     - Principal component analysis
 
- - **Week 8** (Oct 14 and Oct 16):  Multidimensional data II
+ - **Week 8** (Mar 3 and Mar 5):  Multidimensional data II
     - Visualizing high-dimensional data
     - t-SNE and UMAP
     - Clustering
 
- - **Week 9** (Oct 21 and Oct 23): Geospatial data
+ - **Week 9** (Mar 10 and Mar 12): Geospatial data
     - Map projections
     - Choropleth maps
     - Density projection and caveats
     - Geodesic and great-circle distances
     - Routes
+    - **Midterm project proposal evaluation**
 
- - **Week 10** (Oct 28 and Oct 30): Text and embeddings
+ - **Week 10** (Mar 16 - Mar 23): **Spring break** (no classes)
+
+ - **Week 11** (Mar 24 and Mar 26): Text and embeddings
     - Preprocessing text
     - Word clouds and variations
     - Word prevalence plots
     - Words and Text embedding (e.g., word2vec, BERT, etc.)
     - Other types of embedding (e.g., images, etc.)
 
- - **Week 11** (Nov 4 and Nov 6): Network visualization
+ - **Week 12** (Mar 31 and Apr 2): Network visualization
     - Network visualization
     - Node-link diagrams
     - Graph layout algorithms
     - Visualizing social media
     - **Project checkpoint and discussions**
 
- - **Week 12** (Nov 11 and Nov 13): Interactive visualizations
+ - **Week 13** (Apr 7 and Apr 9): Interactive visualizations
     - Importance of interactivity
     - Types of interactions
     - Building interactive visualizations with d3.js
     - **Guest lecture**
     
- - **Week 13** (Nov 18 and Nov 20):  Deconstructing and reconstructing visualizations with d3.js
+ - **Week 14** (Apr 14 and Apr 16):  Deconstructing and reconstructing visualizations with d3.js
     - Deploying visualizations to the web
     - The building blocks of visualizations
     - Customizing visualizations with d3.js
-
- - **Week 14**: **Thanksgiving break**
    
- - **Week 15** (Dec 2 and Dec 4):  **Project hackday week**
+ - **Week 15** (Apr 21 and Apr 23):  **Project hackweek**
 
- - **Week 16** (Dec 9 and Dec 11):  **Project presentations week**
+ - **Week 16** (Apr 28 and Apr 30):  **Project presentations week**
    
- - **Week 17** (Dec 16 and Dec 18):  **Final Exam Week**
+ - **Week 17** (May 5 or May 7):  **Final Exam**
 
 
 ### Grades
-You will be evaluated based on performance in participation, attendance, assignments, final project and the final exam. The final grade will be calculated as follows:
+You will be evaluated based on performance in engagement (participation or attendance), assignments, final project and the final exam. The final grade will be calculated as follows:
 
- - 20% - Participation and attendance
+ - 20% - Engagement
  - 20% - Assignments
  - 30% - Final project
  - 30% - Final exam
@@ -177,8 +182,31 @@ Canvas and Email also work for communication but with a certain delay. We encour
 
 If you have suggestions, criticism or feedback on improving the course, please feel free to share them with us. You can use Slack or use the anonymous feedback form: [TBD].
 
-## Final Project
-You can choose your own project topic (or as a team), but it is a good idea to talk it over with your instructor. You must deliver a final report that shows your findings and clearly explains how you created your visualizations. This will prove your understanding of visualization methods and your skill in using them to make visual data presentations.
+# Final Project
+
+You can choose your own project topic individually or as a team. If you're working as a team, we will assist with team formation if needed. It's strongly recommended that you discuss your topic with the instructor and TAs for guidance.
+
+## Deliverables
+
+### 1. Project Proposal (Midterm)
+Midway through the course, you must submit a short **1-page project proposal**. This will outline:
+- Your chosen topic.
+- The problem or question you aim to address.
+- Your planned approach for creating visualizations.
+
+The proposal is flexible (you can change your mind later) and intended to help you refine your ideas and receive feedback before proceeding further.
+
+### 2. Final Report
+A detailed report that:
+- Outlines your findings.
+- Clearly explains the process you followed to create your visualizations.
+- Demonstrates your understanding of visualization methods and your ability to use them effectively for visual data presentations.
+
+### 3. Presentation
+A presentation of your work, which includes:
+- **Duration**: 5–10 minutes, followed by a short Q&A session.
+- **Note**: The exact presentation time will depend on the total number of teams formed.
+
 
 ### Recommended Books and Resources
 Here are some highly recommended books and resources on Data Visualization and general Data Science with Python:
@@ -291,7 +319,7 @@ Make sure everything is installed correctly:
 
 
 
-## Basic GitHub Usage for the Data Visualization Course  (for submitting assignments)
+## Basic GitHub Usage for the Data Visualization Course (for submitting assignments)
 
 ### Step 1: Fork the Course Repository
 
@@ -364,9 +392,6 @@ Ensure your fork is up to date with the main repository:
 - **Git Cheatsheet**: Refer to this [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) for common Git commands.
 
 
-
-
-
 ## POLICIES
 (Copied from Prof. YY Ahn's course)
 
@@ -386,3 +411,20 @@ Ensure your fork is up to date with the main repository:
 It is also important that you know that Title IX and University policy require me to share any information brought to my attention about potential sexual misconduct, with the campus Deputy Title IX Coordinator or IU’s Title IX Coordinator. In that event, those individuals will work to ensure that appropriate measures are taken and resources are made available. Protecting student privacy is of utmost concern, and information will only be shared with those that need to know to ensure the University can respond and assist. Visit [stopsexualviolence.iu.edu](http://stopsexualviolence.iu.edu) to learn more.
 
 6. **If you have any mental health issues,** don’t hesitate to contact IU’s Counseling and Psychological Services, which provides free counseling sessions. Also, please contact Disability Services for Students at [http://disabilityservices.indiana.edu](http://disabilityservices.indiana.edu) or 812-855-7578 as soon as possible if accommodations are needed.
+
+
+## Policy on the Use of Generative AI and LLMs
+
+In accordance with [IU’s Generative AI Policies](https://teaching.iu.edu/resources/generative-ai/policies.html), you have the instructor **permission** to use generative AI (GAI) and large language models (LLMs), including GPT, Gemini, Llama, Copilot, and similar tools, in this course as long as you do so responsibly and transparently. This includes tasks such as code completion, brainstorming, or improving the clarity of your text. However, these tools are **not recommended** for fully automating assignments or drafting entire project reports. Keep in mind that the quality of GAI output can be unreliable, and you remain fully accountable for any inaccuracies, biases, or offensive content you submit.
+
+- **Disclosure**: If GAI usage played a substantial role in shaping your work, you must clearly acknowledge it. Provide a brief description of how you used the tool, and if it was essential to your final result, include a copy of the prompt(s).  
+- **Citation Example** (no particular format required beyond basic transparency):  
+  > OpenAI. (2024). *ChatGPT (Mar 14 version)* [Large language model]. [https://chat.openai.com/chat](https://chat.openai.com/chat)
+- **Verification**: For code generated by AI, make sure it does exactly what you intend. You must be able to explain its logic and functionality; “blindly trusting” AI outputs is strongly discouraged.  
+- **Limitations**: No GAI tools may be used during exams or project presentations. Doing so will be considered a violation of course policies.  
+- **Integrity**: Use of GAI without proper acknowledgment can be treated as plagiarism or cheating.
+
+> **Note**: There is currently no IU-approved or otherwise reliable method to detect AI-generated content. Some GAI systems can produce excessively verbose or uniquely structured text, but this is not consistent or guaranteed. We rely on your honesty and accurate self-reporting regarding the use of these tools.
+
+In short, while GAI can streamline your workflow, it is **not** a substitute for human critical thinking. Leverage these tools thoughtfully, verify their outputs, and be prepared to justify your methods.
+
