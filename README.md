@@ -9,7 +9,7 @@ Visualizing data is an essential skill for researchers, data scientists, analyst
 
 This course is heavily based on Prof. Yong-Yeol “YY” Ahn's Data Visualization course (http://yongyeol.com).
 
-# Table of Contents
+## Table of Contents
 
 1. [Welcome to the Data Visualization Course!](#welcome-to-the-data-visualization-course)
 2. [Objectives](#objectives)
@@ -23,6 +23,8 @@ This course is heavily based on Prof. Yong-Yeol “YY” Ahn's Data Visualizatio
 10. [Getting Started With the Course](#getting-started-with-the-course)
 11. [Setting Up Your Data Visualization Environment](#setting-up-your-data-visualization-environment)
 12. [Basic GitHub Usage for the Data Visualization Course (for submitting assignments)](#basic-github-usage-for-the-data-visualization-course-for-submitting-assignments)
+13. [POLICIES](#policies)
+
 
 ## Objectives
 
@@ -41,14 +43,14 @@ By the end of this course, you are expected to be able to:
 You will showcase your learned skills by undertaking a course project, in which you will develop a visualization to reveal insights from real-world datasets. This project will require detailed documentation of each step involved in its development, from initial concept to final execution.
 
 
-### Prerequisites
+## Prerequisites
 
 In this course, we will primarily use Python for data analysis and visualization tasks. Thus, you are required to have a good understanding of algorithms and practical experience with Python. We also expect you to have some level of familiarity with web technologies (HTML, CSS, and JavaScript), which will be essential for creating and deploying interactive visualizations. You are encouraged to also have a basic understanding of statistics and probability, as well as notions of 2D geometry and linear algebra.
 
 For self-assessment, please, visit the following link: http://bit.ly/dvizselfassess  (created by YY Ahn). Contact the instructor if you are uncertain about your background.
 
 
-### Course Structure
+## Course Structure
 
 Each week, we'll explore different topics in Data Visualization, starting from the basics and gradually moving to more advanced concepts. The course is designed to be hands-on, with a mix of theory, practical exercises, and projects.
 
@@ -162,7 +164,7 @@ Here's a tentative outline of the course for Fall 2024:
  - **Week 17** (May 5 or May 7):  **Final Exam**
 
 
-### Grades
+## Grades
 You will be evaluated based on performance in engagement (participation or attendance), assignments, final project and the final exam. The final grade will be calculated as follows:
 
  - 20% - Engagement
@@ -172,7 +174,7 @@ You will be evaluated based on performance in engagement (participation or atten
 
 Some assignments may give bonus points for the final grade. Extra credits will be given based on engagement in class and offline, such as asking questions, helping others, and contributing to the course materials.
 
-### Communication
+## Communication
 
 We will use GitHub for all course materials, assignments, and for the final project. Slack will be used for communication, discussions, and to provide feedback on assignments and projects. We encourage you to actively participate in discussions, ask questions, and share your thoughts and ideas. Please be respectful and considerate of others' opinions and ideas, also do not post your personal information or sensitive data in the Slack channel.
 
@@ -182,11 +184,9 @@ Canvas and Email also work for communication but with a certain delay. We encour
 
 If you have suggestions, criticism or feedback on improving the course, please feel free to share them with us. You can use Slack or use the anonymous feedback form: [TBD].
 
-# Final Project
+## Final Project
 
-You can choose your own project topic individually or as a team. If you're working as a team, we will assist with team formation if needed. It's strongly recommended that you discuss your topic with the instructor and TAs for guidance.
-
-## Deliverables
+You can choose your own project topic individually or as a team. If you're working as a team, we will assist with team formation if needed. It's strongly recommended that you discuss your topic with the instructor and TAs for guidance. 
 
 ### 1. Project Proposal (Midterm)
 Midway through the course, you must submit a short **1-page project proposal**. This will outline:
@@ -208,7 +208,7 @@ A presentation of your work, which includes:
 - **Note**: The exact presentation time will depend on the total number of teams formed.
 
 
-### Recommended Books and Resources
+## Recommended Books and Resources
 Here are some highly recommended books and resources on Data Visualization and general Data Science with Python:
 
 1. **Fundamentals of Data Visualization by Claus O. Wilke** (available online at https://serialmentor.com/dataviz/): A comprehensive guide to the theory and practice of data visualization.
@@ -237,7 +237,7 @@ Here are some highly recommended books and resources on Data Visualization and g
 Wait for more resources to be added to this list or suggest your own!
 
 
-### Course Materials
+## Course Materials
 
 Here's what you can find in our repository:
 
@@ -249,7 +249,7 @@ Here's what you can find in our repository:
 
 Most of these materials will be available when the course starts.
 
-### Getting Started With the Course
+## Getting Started With the Course
 
 To get started, please ensure you have set up your environment as described in the next sections. We encourage you to explore the materials, complete the assignments, and actively participate in discussions using Slack. If you have any questions or need help, feel free to ask the instructor or your peers. We're here to help you succeed in your Data Science journey!
 
@@ -393,6 +393,7 @@ Ensure your fork is up to date with the main repository:
 
 
 ## POLICIES
+### General policies
 (Copied from Prof. YY Ahn's course)
 
 1. **Be honest. Don’t be a cheater.** Your assignments and papers should be your own work. If you find useful resources for your assignments, share them and cite them. If your friends helped you, acknowledge them. You should feel free to discuss both online and offline (except for the exam), but do not show your code directly. Any cases of academic misconduct (cheating, fabrication, plagiarism, etc.) will be reported to the School and the Dean of Students, following the standard procedure. Cheating is not cool.
@@ -413,7 +414,7 @@ It is also important that you know that Title IX and University policy require m
 6. **If you have any mental health issues,** don’t hesitate to contact IU’s Counseling and Psychological Services, which provides free counseling sessions. Also, please contact Disability Services for Students at [http://disabilityservices.indiana.edu](http://disabilityservices.indiana.edu) or 812-855-7578 as soon as possible if accommodations are needed.
 
 
-## Policy on the Use of Generative AI and LLMs
+### Policy on the Use of Generative AI and LLMs
 
 In accordance with [IU’s Generative AI Policies](https://teaching.iu.edu/resources/generative-ai/policies.html), you have the instructor **permission** to use generative AI (GAI) and large language models (LLMs), including GPT, Gemini, Llama, Copilot, and similar tools, in this course as long as you do so responsibly and transparently. This includes tasks such as code completion, brainstorming, or improving the clarity of your text. However, these tools are **not recommended** for fully automating assignments or drafting entire project reports. Keep in mind that the quality of GAI output can be unreliable, and you remain fully accountable for any inaccuracies, biases, or offensive content you submit.
 
