@@ -1,10 +1,5 @@
-Below is the HTML content converted into Markdown:
 
----
-
-## INFO-I590 Data Visualization
-
----
+# INFO-I590 Data Visualization (Spring 2025)
 
 ### Instructor Contact Information
 
@@ -549,4 +544,11 @@ In accordance with [IU’s Generative AI Policies](https://teaching.iu.edu/resou
 > **Note**: There is currently no IU-approved or otherwise reliable method to detect AI-generated content. Some GAI systems can produce excessively verbose or uniquely structured text, but this is not consistent or guaranteed. We rely on your honesty and accurate self-reporting regarding the use of these tools.
 
 In short, while GAI can streamline your workflow, it is **not** a substitute for human critical thinking. Leverage these tools thoughtfully, verify their outputs, and be prepared to justify your methods.
+
+
+## Special Thanks
+- [YY Ahn](http://yongyeol.com/) designed the course and kindly shared the materials.
+- [Francisco Alfaro](https://github.com/fralfaro) helped the migration with [mkdocs](https://www.mkdocs.org). 
+
+
 

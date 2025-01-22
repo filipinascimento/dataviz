@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Data Visualization
-site_url: https://github.com/yy/dviz-course
-site_author: YY Ahn
+site_url: https://github.com/filipinascimento/dataviz
+site_author: Filipi Nascimento Silva
 site_description:
 
 # Repository
-repo_name: yy/dviz-course
-repo_url: https://github.com/yy/dviz-course
+repo_name: filipinascimento/dataviz
+repo_url: https://github.com/filipinascimento/dataviz
 edit_uri: ''
 
 
@@ -88,45 +88,6 @@ nav:
         - m01-intro/class.md
         - m01-intro/lab01.ipynb
         - m01-intro/lab01supp-python_review.ipynb
-    - "2: History":
-        - m02-history/class.md
-        - m02-history/lab02.ipynb
-    - "3: Integrity":
-        - m03-integrity/class.md
-        - m03-integrity/lab03.ipynb
-    - "4: Perception":
-        - m04-perception/class.md
-        - m04-perception/lab04.ipynb
-    - "5: Design":
-        - m05-design/class.md
-        - m05-design/lab05.ipynb
-    - "6: Data":
-        - m06-data/class.md
-        - m06-data/lab06.ipynb
-    - "7: Univariate":
-        - m07-1D/class.md
-        - m07-1D/lab07.ipynb
-    - "8: Histogram":
-        - m08-histogram/class.md
-        - m08-histogram/lab08.ipynb
-    - "9: Estimation":
-        - m09-estimation/class.md
-        - m09-estimation/lab09.ipynb
-    - "10: Logarithm":
-        - m10-logscale/class.md
-        - m10-logscale/lab10.ipynb
-    - "11: High-dimensional data":
-        - m11-highdim/class.md
-        - m11-highdim/lab11.ipynb
-    - "12: Maps":
-        - m12-maps/class.md
-        - m12-maps/lab12.ipynb
-    - "13: Text":
-        - m13-text/class.md
-        - m13-text/lab13.ipynb
-    - "14: Networks":
-        - m14-networks/class.md
-        - m14-networks/lab14.ipynb
 
 
 
