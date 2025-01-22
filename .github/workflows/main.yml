@@ -21,5 +21,9 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs mkdocs-material mkdocs-jupyter
+      - run: pip install mkdocs mkdocs-material mkdocs-jupyter      # Copy README.md to docs/index.md
+      - run: |
+          mkdir -p docs
+          cp README.md docs/index.md
+      
       - run: mkdocs gh-deploy --force
