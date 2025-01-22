@@ -24,6 +24,6 @@ jobs:
       - run: pip install mkdocs mkdocs-material mkdocs-jupyter      # Copy README.md to docs/index.md
       - run: |
           mkdir -p docs
-          cp README.md docs/index.md
+          echo -e "---\nlayout: default\n---\n$(cat README.md)" > docs/index.md
       
       - run: mkdocs gh-deploy --force
