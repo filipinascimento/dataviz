@@ -1,5 +1,9 @@
 Datasets collected from Kaggle
 
+ - Solar System major bodies data
+    - `sol_data.json`
+    - Link: https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data
+
  - Iris Dataset
     - `iris.csv`
     - Link: https://www.kaggle.com/datasets/uciml/iris

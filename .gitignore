@@ -107,4 +107,7 @@ data/Derived/
 heuristics/
 #data/
 .ipynb_checkpoints/
+package-lock.json
 
+# remove docs/index.md as this will be generated from the README.md
+docs/index.md

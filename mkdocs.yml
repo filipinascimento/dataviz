@@ -23,14 +23,29 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      # custom_fences:
+      # - name: javascript-exec
+      #   class: javascript-exec
+      #   format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist
   - pymdownx.tabbed
 
 # Extra javascript
 extra_javascript:
-  # - javascripts/mathjax.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/mode/javascript/javascript.min.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/addon/edit/closebrackets.min.js
+#   - playground.js  # Your custom script for playground functionality
+#   # - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# extra_css:
+#   - https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.css
+#   - https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/theme/material.min.css
+#   - playground.css  # Optional: custom styling for the playground
+# extra_css:
+#   - javascriptexec.css
 
 # Theme
 theme:
@@ -83,10 +98,20 @@ plugins:
 nav:
     - index.md
     - communication.md
-    - "1: Introduction":
-        - m01-intro/class.md
-        - m01-intro/lab01.ipynb
-        - m01-intro/lab01supp-python_review.ipynb
+    - "Tutorials":
+        - tutorials/terminal_basics.md
+        - tutorials/python_basics.ipynb
+        - tutorials/numpy_basics.ipynb
+        - tutorials/pandas_basics.ipynb
+        - tutorials/git_basics.md
+        - tutorials/web_basics.md
+
+    - "W2: Recap of Fundamentals":
+        - w02-recap_setup/class.md
+        - w02-recap_setup/assignment_w2_sol.md
+
+
+
 
 
 

@@ -1,0 +1,22 @@
+/* Make the body fill the screen and remove default margins */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+}
+
+/* A container that uses flexbox to center its contents */
+.canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Optional: add a simple border around the canvas */
+#myCanvas {
+  border: 2px solid #333;
+}
