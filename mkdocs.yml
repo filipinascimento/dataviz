@@ -110,6 +110,12 @@ nav:
         - w02-recap_setup/class.md
         - w02-recap_setup/assignment_w2_sol.ipynb
 
+    - "W3: Principles of Data Visualization":
+        - w03-principles/class.md
+        - w03-principles/why_visualization.ipynb
+        - w03-principles/assignment_w3_perception.ipynb
+
+
 
 
 
