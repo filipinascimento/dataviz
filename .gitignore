@@ -14,18 +14,6 @@ main.pdf
 supp.pdf
 *.log
 
-# Data files
-*.csv
-*.tsv
-*.txt
-
-# Office files
-*.docx
-*.doc
-*.ppt
-*.pptx
-*.xls
-*.xlsx
 
 # Jupyter
 .ipynb_checkpoints/
