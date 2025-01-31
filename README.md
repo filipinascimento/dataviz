@@ -14,18 +14,18 @@ Filipi Nascimento Silva
 
 The AIs are available as day & time, contact, and location (or zoom link). Please see their schedules and contact information below.
 
-- **Shalmoli Ghosh** – [shaghosh@iu.edu](mailto:shaghosh@iu.edu)  
-  Office hours: TBD  
-  Zoom: TBD
-- **Anindya Mondal** – [anmondal@iu.edu](mailto:anmondal@iu.edu)  
-  Office hours: TBD  
-  Zoom: TBD
-- **Weihong Qi** – [wq3@iu.edu](mailto:wq3@iu.edu)  
-  Office hours: Monday 1-2pm  
-  Zoom: [https://iu.zoom.us/j/82021278085](https://iu.zoom.us/j/82021278085)
-- **Vincent Wong** – [vmwong@iu.edu](mailto:vmwong@iu.edu)  
-  Office hours: TBD  
-  Zoom: TBD
+- **Shalmoli Ghosh** – *See Canvas*  
+    Office hours: *See Canvas*  
+    Zoom: *See Canvas*
+- **Anindya Mondal** – *See Canvas*  
+    Office hours: *See Canvas*  
+    Zoom: *See Canvas*
+- **Weihong Qi** – *See Canvas*  
+    Office hours: *See Canvas*
+    Zoom: *See Canvas*
+- **Vincent Wong** – *See Canvas*  
+    Office hours: *See Canvas*
+    Zoom: *See Canvas*
 
 ---
 
@@ -94,105 +94,105 @@ Each week, we'll explore different topics in Data Visualization, starting from t
 Here's a tentative outline of the course for Fall 2024:
 
 - **Week 1** (Jan 13 and Jan 15): Introduction to Data Visualization  
-  - Overview of Data Visualization  
-  - The Importance of Data Visualization  
-  - Historical overview  
-  - Course summary and expectations  
-  - Famous visualizations and their impact
+    - Overview of Data Visualization  
+    - The Importance of Data Visualization  
+    - Historical overview  
+    - Course summary and expectations  
+    - Famous visualizations and their impact
 
 - **Week 2** (Jan 22): Prerequisites and Recap of Fundamentals  
-  - Demonstration of visualizations, tools, and libraries  
-  - Git and Github  
-  - Python basics (Jupyter, Pandas)  
-  - Simple statistics  
-  - Modern Javascript, HTML, and CSS basics  
-  - Setup of a web development environment  
-  - Canvas and SVG  
-  - Basics of 2D computer graphics, geometry, and affine transformations
+    - Demonstration of visualizations, tools, and libraries  
+    - Git and Github  
+    - Python basics (Jupyter, Pandas)  
+    - Simple statistics  
+    - Modern Javascript, HTML, and CSS basics  
+    - Setup of a web development environment  
+    - Canvas and SVG  
+    - Basics of 2D computer graphics, geometry, and affine transformations
 
 - **Week 3** (Jan 27 and Jan 29): Principles of Data Visualization  
-  - Human perception and cognition  
-  - Gestalt principles  
-  - Visual encoding  
-  - Data visualization principles  
-  - Color perception, theory and representations  
-  - Ethical considerations in data visualization  
-  - Bad vs Good visualizations and common misconceptions
+    - Human perception and cognition  
+    - Gestalt principles  
+    - Visual encoding  
+    - Data visualization principles  
+    - Color perception, theory and representations  
+    - Ethical considerations in data visualization  
+    - Bad vs Good visualizations and common misconceptions
 
 - **Week 4** (Feb 3 and Feb 5): Data types and Exploratory Data Analysis  
-  - Data types and data structures  
-  - Data cleaning and preprocessing  
-  - Manipulation of data  
-  - Description and summarization of data  
-  - Histograms  
-  - Box plots and variants  
-  - File formats for visualizations  
-  - Exporting visualizations to design tools
+    - Data types and data structures  
+    - Data cleaning and preprocessing  
+    - Manipulation of data  
+    - Description and summarization of data  
+    - Histograms  
+    - Box plots and variants  
+    - File formats for visualizations  
+    - Exporting visualizations to design tools
 
 - **Week 5** (Feb 10 and Feb 12): Distributions, scales and axes  
-  - Typical distributions  
-  - Kernel density estimation  
-  - Power-law distribution  
-  - Linear, Logarithmic and Time scales  
-  - Line plots  
-  - Axes, ticks and labels
+    - Typical distributions  
+    - Kernel density estimation  
+    - Power-law distribution  
+    - Linear, Logarithmic and Time scales  
+    - Line plots  
+    - Axes, ticks and labels
 
 - **Week 6** (Feb 17 and Feb 19): Mapping data to 2D  
-  - Scatter and bubble plots  
-  - Heatmaps  
-  - Color scales  
-  - 2D histograms, contour and density plots  
-  - Which chart, color, scale, map, *, to use?  
-  - Introduction to d3.js  
-  - **Project idea discussions and matchmaking**
+    - Scatter and bubble plots  
+    - Heatmaps  
+    - Color scales  
+    - 2D histograms, contour and density plots  
+    - Which chart, color, scale, map, *, to use?  
+    - Introduction to d3.js  
+    - **Project idea discussions and matchmaking**
 
 - **Week 7** (Feb 24 and Feb 26): Multidimensional data I  
-  - Parallel coordinates and radar chart  
-  - Scatter matrices and multi-panel plots  
-  - Are 3D plots the solution?  
-  - Principles of dimensionality reduction  
-  - Principal component analysis
+    - Parallel coordinates and radar chart  
+    - Scatter matrices and multi-panel plots  
+    - Are 3D plots the solution?  
+    - Principles of dimensionality reduction  
+    - Principal component analysis
 
 - **Week 8** (Mar 3 and Mar 5): Multidimensional data II  
-  - Visualizing high-dimensional data  
-  - t-SNE and UMAP  
-  - Clustering
+    - Visualizing high-dimensional data  
+    - t-SNE and UMAP  
+    - Clustering
 
 - **Week 9** (Mar 10 and Mar 12): Geospatial data  
-  - Map projections  
-  - Choropleth maps  
-  - Density projection and caveats  
-  - Geodesic and great-circle distances  
-  - Routes  
-  - **Midterm project proposal evaluation**
+    - Map projections  
+    - Choropleth maps  
+    - Density projection and caveats  
+    - Geodesic and great-circle distances  
+    - Routes  
+    - **Midterm project proposal evaluation**
 
 - **Week 10** (Mar 16 - Mar 23): **Spring break** (no classes)
 
 - **Week 11** (Mar 24 and Mar 26): Text and embeddings  
-  - Preprocessing text  
-  - Word clouds and variations  
-  - Word prevalence plots  
-  - Words and Text embedding (e.g., word2vec, BERT, etc.)  
-  - Other types of embedding (e.g., images, etc.)
+    - Preprocessing text  
+    - Word clouds and variations  
+    - Word prevalence plots  
+    - Words and Text embedding (e.g., word2vec, BERT, etc.)  
+    - Other types of embedding (e.g., images, etc.)
 
 - **Week 12** (Mar 31 and Apr 2): Network visualization  
-  - Network visualization  
-  - Node-link diagrams  
-  - Graph layout algorithms  
-  - Visualizing social media  
-  - **Project checkpoint and discussions**
+    - Network visualization  
+    - Node-link diagrams  
+    - Graph layout algorithms  
+    - Visualizing social media  
+    - **Project checkpoint and discussions**
 
 - **Week 13** (Apr 7 and Apr 9): Interactive visualizations  
-  - Importance of interactivity  
-  - Types of interactions  
-  - Demonstration d3.js for interactive visualizations  
-  - Deploying visualizations to the web  
-  - Building interactive visualizations with d3.js
+    - Importance of interactivity  
+    - Types of interactions  
+    - Demonstration d3.js for interactive visualizations  
+    - Deploying visualizations to the web  
+    - Building interactive visualizations with d3.js
 
 - **Week 14** (Apr 14 and Apr 16): Deconstructing and reconstructing visualizations with d3.js  
-  - The building blocks of visualizations  
-  - Customizing visualizations with d3.js  
-  - **Guest lecture**
+    - The building blocks of visualizations  
+    - Customizing visualizations with d3.js  
+    - **Guest lecture**
 
 - **Week 15** (Apr 21 and Apr 23): **Project hackday and presentations**
 
@@ -346,9 +346,9 @@ Indiana University respects the right of all students to observe their religious
    Any act of discrimination or harassment based on race, ethnicity, religious affiliation, gender, gender identity, sexual orientation, or disability can be reported to [biasincident@indiana.edu](mailto:biasincident@indiana.edu) or to the Dean of Students Office at (812) 855-8188.
 5. **Sexual misconduct and Title IX.**  
    Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence. If you have experienced sexual misconduct, or know someone who has, you can use university resources:  
-   - a) The Sexual Assault Crisis Services (SACS) at (812) 855-8900 (counseling services)  
-   - b) Confidential Victim Advocates (CVA) at (812) 856-2469 (advocacy and advice services)  
-   - c) IU Health Center at (812) 855-4011 (health and medical services)
+     - a) The Sexual Assault Crisis Services (SACS) at (812) 855-8900 (counseling services)  
+     - b) Confidential Victim Advocates (CVA) at (812) 856-2469 (advocacy and advice services)  
+     - c) IU Health Center at (812) 855-4011 (health and medical services)
 
 6. **If you have any mental health issues,** don’t hesitate to contact IU’s Counseling and Psychological Services, which provides free counseling sessions. Also, please contact Disability Services for Students at [http://disabilityservices.indiana.edu/](http://disabilityservices.indiana.edu/) or 812-855-7578 as soon as possible if accommodations are needed.
 
