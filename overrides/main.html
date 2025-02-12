@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Insert Colab & GitHub Buttons -->
+{% if page.file.src_path.endswith(".ipynb") %}
+    {% set notebook_path = page.file.src_path %}
+    {% set repo_url = "https://github.com/filipinascimento/dataviz/blob/main/docs/" + notebook_path %}
+    {% set colab_url = "https://colab.research.google.com/github/filipinascimento/dataviz/blob/main/docs/" + notebook_path %}
+    
+    <table class="m01-notebook-buttons" align="left">
+      <td>
+        <a target="_blank" href="{{ colab_url }}">
+          <img src="https://www.tensorflow.org/images/colab_logo_32px.png" /> Run in Google Colab
+        </a>
+      </td>
+      <td>
+        <a href="{{ repo_url }}">
+          <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" /> View on GitHub
+        </a>
+      </td>
+    </table>
+
+    <br clear="all">
+{% endif %}
+
+{% if page.nb_url %}
+    <a href="{{ page.nb_url }}" title="Download Notebook" class="md-content__button md-icon">
+        {% include ".icons/material/download.svg" %}
+    </a>
+{% endif %}
+
+<!-- Render the notebook content -->
+{{ super() }}
+{% endblock content %}

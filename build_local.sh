@@ -47,7 +47,7 @@ fi
 
 # Serve the MkDocs site locally
 info "Building and serving MkDocs site..."
-mkdocs serve --dev-addr=0.0.0.0:8000
+mkdocs serve
 
 # Output instructions for accessing the site
 success "MkDocs site is live at http://127.0.0.1:8000"

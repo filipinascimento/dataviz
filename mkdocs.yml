@@ -53,6 +53,7 @@ theme:
   language: en
   logo: images/dv.png
   favicon: images/dv.png
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.top
@@ -100,6 +101,9 @@ nav:
     - communication.md
     - "Tutorials":
         - tutorials/terminal_basics.md
+        - tutorials/jupyter_basics.md
+        - tutorials/google_colab.ipynb
+        - tutorials/vscode_basics.md
         - tutorials/python_basics.ipynb
         - tutorials/numpy_basics.ipynb
         - tutorials/pandas_basics.ipynb
@@ -114,6 +118,9 @@ nav:
         - w03-principles/class.md
         - w03-principles/why_visualization.ipynb
         - w03-principles/assignment_w3_perception.ipynb
+
+    - "W5: Data Types and Data Structures":
+        - w05-data/class.ipynb
 
 
 
