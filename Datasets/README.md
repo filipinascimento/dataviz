@@ -1,4 +1,6 @@
-Datasets collected from Kaggle
+Datasets
+
+This folder contains datasets that are used in the notebooks. The datasets are either downloaded from the internet or created by me. The datasets are stored in the `Datasets` folder. The datasets are listed below with a brief description and the source link.
 
  - Solar System major bodies data
     - The dataset contains information about the major bodies in our solar system, including their names, types, diameters, distances from the sun, and the number of moons they have.
@@ -18,6 +20,14 @@ Datasets collected from Kaggle
     - SPOILERS
     - `data9b.csv`
     - Link: SPOILTERS
+
+ - Risk Factors for Cardiovascular Heart Disease
+    - `heart_data.csv`
+    - Link: https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas?resource=download
+
+ - Steven's Power Law Experiments Data
+    - `type_exponent.csv`
+    - Description: Dataset collected from the assignment Perception. The dataset contains the type of experiment and the exponent value.
 
 <!-- Not here yet
  - Iris Dataset

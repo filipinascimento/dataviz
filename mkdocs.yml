@@ -115,12 +115,15 @@ nav:
         - w02-recap_setup/assignment_w2_sol.ipynb
 
     - "W3: Principles of Data Visualization":
-        - w03-principles/class.md
         - w03-principles/why_visualization.ipynb
         - w03-principles/assignment_w3_perception.ipynb
 
     - "W5: Data Types and Data Structures":
         - w05-data/class.ipynb
+        - w05-data/more_tidy_data.ipynb
+    
+    - "W6: Encoding and 1D":
+        - w06-encoding/mapping_data.ipynb
 
 
 
