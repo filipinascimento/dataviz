@@ -109,6 +109,7 @@ nav:
         - tutorials/pandas_basics.ipynb
         - tutorials/git_basics.md
         - tutorials/web_basics.md
+        - tutorials/testing_python.ipynb
 
     - "W2: Recap of Fundamentals":
         - w02-recap_setup/class.md
