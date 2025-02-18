@@ -29,6 +29,10 @@ This folder contains datasets that are used in the notebooks. The datasets are e
     - `type_exponent.csv`
     - Description: Dataset collected from the assignment Perception. The dataset contains the type of experiment and the exponent value.
 
+- [Stories](https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data)
+    - `story-*.txt`
+    - Description: Text files containing short stories for text analysis.
+
 <!-- Not here yet
  - Iris Dataset
     - `iris.csv`
