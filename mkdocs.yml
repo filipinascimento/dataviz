@@ -122,6 +122,7 @@ nav:
     - "W5: Data Types and Data Structures":
         - w05-data/class.ipynb
         - w05-data/more_tidy_data.ipynb
+        - w05-data/assignment_m05_billboard.ipynb
     
     - "W6: Encoding and 1D":
         - w06-encoding/mapping_data.ipynb
