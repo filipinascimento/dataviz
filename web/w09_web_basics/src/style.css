@@ -1,0 +1,33 @@
+/* Make the body fill the screen and remove default margins */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 30px;
+}
+
+#infoText {
+  color: white;
+  background-color: red;
+  padding: 5px;
+}
+
+.smallText {
+  color: red;
+  background-color: yellow;
+  font-size: 7pt;
+  padding: 1px;
+}
+
+#infoText .smallText {
+  color: blue;
+  background-color: gray;
+  font-size: 9pt;
+  padding: 1px;
+}

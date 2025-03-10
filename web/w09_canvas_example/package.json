@@ -1,7 +1,7 @@
 {
-  "name": "w2_canvas_example",
+  "name": "w9_canvas_example",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
