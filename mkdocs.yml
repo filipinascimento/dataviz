@@ -126,6 +126,8 @@ nav:
     
     - "W6: Encoding and 1D":
         - w06-encoding/mapping_data.ipynb
+        - w06-encoding/assigment_m06_visual_encoding.ipynb
+
 
 
 
