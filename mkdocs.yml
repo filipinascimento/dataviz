@@ -129,6 +129,22 @@ nav:
         - w06-encoding/assigment_m06A_visual_encoding.ipynb
         - w06-encoding/assigment_m06B_visual_encoding.ipynb
 
+    - "W7: Histograms and Logarithmic Scales":
+        - w07-log_scale/class.ipynb
+        - w07-log_scale/assigment_m07_log_scale.ipynb
+
+    - "W8: Beyond 1D":
+        - w08-beyond1D_web/class.ipynb
+        - w08-beyond1D_web/assignment_w08_beyond1D.ipynb
+
+    - "W9: Dimension Reduction":
+        - w09-dim_reduction/class.ipynb
+    
+
+      
+
+
+
 
 
 

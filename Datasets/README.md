@@ -33,7 +33,6 @@ This folder contains datasets that are used in the notebooks. The datasets are e
     - `story-*.txt`
     - Description: Text files containing short stories for text analysis.
 
-<!-- Not here yet
  - Iris Dataset
     - `iris.csv`
     - Link: https://www.kaggle.com/datasets/uciml/iris
@@ -42,6 +41,7 @@ This folder contains datasets that are used in the notebooks. The datasets are e
     - `Ukraine_tweets.csv`
     - Link: https://www.kaggle.com/datasets/tariqsays/russiaukraine-conflict-twitter-dataset
 
+<!-- Not here yet
  - Indian Movies
     - `indian movies.csv`
     - Link: https://www.kaggle.com/datasets/nareshbhat/indian-moviesimdb
