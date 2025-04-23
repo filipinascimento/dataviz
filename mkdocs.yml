@@ -140,6 +140,9 @@ nav:
     - "W9: Dimension Reduction":
         - w09-dim_reduction/class.ipynb
         - w09-dim_reduction/assignment_w09_dim_reduction.ipynb
+
+    - "W11: Text":
+        - w11-text/class.ipynb
     
 
       
