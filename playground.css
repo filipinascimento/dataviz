@@ -1,0 +1,30 @@
+.playground-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 4px;
+    background: #f9f9f9;
+}
+.playground-container textarea {
+    display: none; /* CodeMirror will replace this */
+}
+.playground-output {
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: monospace;
+    background: #fff;
+    white-space: pre-wrap;
+}
+button {
+    margin-top: 5px;
+    padding: 2px 5px;
+    cursor: pointer;
+    border: none;
+    background: #1b4313;
+    color: white;
+    border-radius: 4px;
+}
+button:hover {
+    background: #10280b;
+}
