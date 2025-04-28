@@ -110,6 +110,7 @@ nav:
         - tutorials/git_basics.md
         - tutorials/web_basics.md
         - tutorials/testing_python.ipynb
+        - tutorials/javascript_basics.md
 
     - "W2: Recap of Fundamentals":
         - w02-recap_setup/class.md
@@ -140,9 +141,18 @@ nav:
     - "W9: Dimension Reduction":
         - w09-dim_reduction/class.ipynb
         - w09-dim_reduction/assignment_w09_dim_reduction.ipynb
-
+    - "W10: Maps":
+        - w10-maps/class.ipynb
+        - w10-maps/assignment_w10_maps.ipynb
     - "W11: Text":
         - w11-text/class.ipynb
+        - w11-text/assignment_w11_text.ipynb
+    - "W12: Networks":
+        - w12-networks/igraph-basics.ipynb
+        - w12-networks/Visualize.ipynb
+        - w12-networks/Communities.ipynb
+        - w12-networks/FR-networkx.ipynb
+        - w12-networks/assignment_w12_networks.ipynb
     
 
       
